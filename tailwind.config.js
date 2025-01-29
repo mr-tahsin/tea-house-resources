@@ -6,3 +6,8 @@ module.exports = {
   },
   plugins: [],
 };
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  important: true,
+};
